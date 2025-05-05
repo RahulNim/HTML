@@ -5611,12 +5611,6 @@ body.elementor-editor-active [data-arts-os-animation] {
   margin-right: 0;
 }
 
-/* Adding code to edit image size of Page 2 image: */
-
-.section-services .section-content__image-inner img {
-  width: 300px;
-  height: auto;
-}
 
 /*!========================================================================
  * 65. Section Demo
@@ -6179,18 +6173,6 @@ body.elementor-editor-active [data-arts-os-animation] {
   }
 }
 
-/* Adding Code to apply Flexbox to the .col-lg-6 elements to control their layout: */
-
-.section-services__container .col-lg-6 {
-  display: flex;
-  align-items: center; /* Vertical alignment */
-  justify-content: center; /* Horizontal alignment */
-}
-
-.section-services .section-content__image-inner img {
-  width: 300px; /* Or your desired width */
-  height: auto;
-}
 
 /*!========================================================================
  * 74. Section Video
