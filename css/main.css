@@ -128,6 +128,26 @@
  * ==========================================================================
  */
 
+* ========================================
+   TEMPORARY STYLE FOR WAITLIST BUTTON - REMOVE AFTER LAUNCH
+   ======================================== */
+
+.figure-service__price.comming_soon {
+    margin-top: 1rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.figure-service__price.comming_soon .button {
+    margin-bottom: 1rem !important;
+}
+
+.figure-service__footer {
+    margin-top: 1rem !important;
+}
+
+/* ======================================== */
+
+
 
  *, *::before, *::after {
   font-style: normal !important;
