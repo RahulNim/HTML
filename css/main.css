@@ -14193,7 +14193,10 @@ ul.package-features {
 
 /* Customer Revieew------------------------------------------------------- */
 .customer_pic {
-  /* position: relative;
+  /* position: relative;*/
+  display: flex;
+  align-items: center;      /* Centers vertically */
+  justify-content: center;
   /* border: 4px solid #fcf7d8; */
   /* border-radius: 1rem; */
   display: grid;
@@ -14203,7 +14206,7 @@ ul.package-features {
   font-size: 1.5rem;
   height: 300px;
   max-width: 200px;
-  padding: 0.5rem .3rem;
+  padding: 0.5rem .5rem;
   box-shadow: 3px 6px 13px 1px #00000057;
   margin-inline: auto;
   /* margin-bottom: 3rem; */
