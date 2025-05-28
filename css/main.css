@@ -14201,10 +14201,9 @@ ul.package-features {
   /* background-color: #ff5555; */
   color: #15928A;
   font-size: 1.5rem;
-  height: fit-content;
-  min-width: 200px;
-  max-width: 250px;
-  padding: 1rem .6rem;
+  height: 300px;
+  max-width: 200px;
+  padding: 0.5rem .3rem;
   box-shadow: 3px 6px 13px 1px #00000057;
   margin-inline: auto;
   /* margin-bottom: 3rem; */
